@@ -1,7 +1,2 @@
-- 👋 Hi, I’m Lucas, Sysadmin, Network Architect and Infosec Blue Teamer.
+- 👋 Hi, I’m Lucas, OG Infosec Masterchief, OG Sysadmin/SysOp, Network Engineer and Coffee, coke addict.
 - 📫 How to reach me: private.
-
-<!---
-lucasrca/lucasrca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
